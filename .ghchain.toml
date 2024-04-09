@@ -1,0 +1,2 @@
+workflows = ["workflow_1", "workflow_2"]
+branch_name_template = "hk-{pr_id}"
